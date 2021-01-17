@@ -1,0 +1,6 @@
+800 600
+arial.ttf 25
+Music.wav
+50 1
+Sound.wav
+50 1

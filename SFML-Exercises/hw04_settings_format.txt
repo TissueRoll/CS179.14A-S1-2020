@@ -1,0 +1,6 @@
+window_width window_height
+fontFileName fontSize
+musicFileName
+music_volume music_pitch
+sfxFileName
+sfx_volume sfx_pitch

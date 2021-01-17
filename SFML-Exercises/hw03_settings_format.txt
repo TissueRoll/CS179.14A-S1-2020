@@ -1,0 +1,7 @@
+window_w window_h
+circle_amount rectangle_amount
+circle_radius
+square_side_length
+non_controllable_entity_speed
+first_circle_speed
+first_rectangle_speed

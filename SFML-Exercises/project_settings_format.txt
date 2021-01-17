@@ -1,0 +1,6 @@
+window_w window_h
+paddle_width paddle_height paddle_speed paddle_HP
+paddle_color_r paddle_color_g paddle_color_b
+ball_radius
+ball_color_r ball_color_g ball_color_b
+font_filename font_size
